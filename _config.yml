@@ -1,1 +1,13 @@
+title: Deep Lighting Environment Map Estimation from Spherical Panoramas
+show_downloads: true
 theme: jekyll-theme-cayman
+
+github:
+    model_url: https://github.com/VCL3D/DeepPanoramaLighting
+    repository_url: https://github.com/VCL3D/DeepPanoramaLighting
+    is_project_page: true
+    repository_name: DeepPanoramaLighting
+    owner_url: https://github.com/VasilisGks and https://github.com/zuru
+    owner_name: Vasilis Gkitsas and Nikolaos Zioulis
+    
+google_analytics: UA-147231916-1
