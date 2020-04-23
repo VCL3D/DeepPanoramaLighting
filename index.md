@@ -11,6 +11,7 @@ Finally, since we predict spherical spectral coefficients, we show that by impos
 ___
 
 # Overview
+We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) and the larger [3D60](vcl3d.github.io/3D60) color and normal dataset (__\[[2](#HyperSphere)\]__) jointly, coupling them through relighting in order to learn a single-shot HDR lighting estimator from a single LDR spherical panorama. 
 ![Overview](./assets/images/introduction.png)
 
 
@@ -51,3 +52,9 @@ This project has received funding from the European Union’s Horizon 2020 innov
 
 # Contact
 Please direct any questions related to the code & models to gkitsasv “at” iti “dot” gr or post an issue to the code [repo](https://github.com/VCL3D/DeepPanoramaLighting).
+
+# References
+<a name="Laval"/>__\[1\]__ Gardner, M. A., Sunkavalli, K., Yumer, E., Shen, X., Gambaretto, E., Gagné, C., & Lalonde, J. F. (2017). [Learning to predict indoor illumination from a single image.](https://arxiv.org/pdf/1704.00090.pdf) ACM Transactions on Graphics (TOG), 36(6), 1-14.
+
+<a name="HyperSphere"/>__\[[2](https://vcl3d.github.io/HyperSphereSurfaceRegression/)\]__ Karakottas, A., Zioulis, N., Samaras, S., Ataloglou, D., Gkitsas, V., Zarpalas, D., and Daras, P. (2019). [360<sup>o</sup> Surface Regression with a Hyper-sphere Loss](https://arxiv.org/pdf/1909.07043.pdf). In Proceedings of the International Conference on 3D Vision (3DV).
+
