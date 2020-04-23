@@ -20,8 +20,8 @@ We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) an
 
 
 # Results
-![Wooden_lounge](./assets/images/qual_1.png) 
-![Colorful_studio](./assets/images/qual_2.png)
+![1](./assets/images/Qualitative.png) 
+![2](./assets/images/Qualitative_2.png)
 
 # Publication
 <a href="https://arxiv.org/"><img src="./assets/images/paper_image.png" width="700" title="arXiv paper link" alt="arXiv"/></a>
