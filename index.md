@@ -11,7 +11,7 @@ Finally, since we predict spherical spectral coefficients, we show that by impos
 ___
 
 # Overview
-![System](./assets/images/introduction.png){:width="550px")
+![System](./assets/images/introduction.png){:width="550px") 
 
 
 # Publication
