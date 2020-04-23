@@ -20,7 +20,7 @@ ___
 
 # Qualitative results
 
-![Qualitative_1](./assets/images/Qualitative_1.png)(:width="750px")
+![Qualitative_1](./assets/images/Qualitative.png)(:width="750px")
 ![Qualitative_2](./assets/images/Qualitative_2.png)(:width="750px")
 
 # Publication
