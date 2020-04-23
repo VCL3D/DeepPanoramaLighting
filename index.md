@@ -10,15 +10,15 @@ Finally, since we predict spherical spectral coefficients, we show that by impos
 
 ___
 
-# Framework overview
+# Overview
 ![Overview](./assets/images/introduction.png)
 
 
-# Our end-to-end relighting based supervision
+# Relighting-based Supervision
 ![Supervision](./assets/images/supervision2.png)
 
 
-# Qualitative results
+# Results
 
 ![Qualitative_1](./assets/images/Qualitative.png)
 ![Qualitative_2](./assets/images/Qualitative_2.png)
