@@ -11,7 +11,11 @@ Finally, since we predict spherical spectral coefficients, we show that by impos
 ___
 
 # Overview
-![System](./assets/images/introduction.png){:width="550px") 
+![Overview](./assets/images/introduction.png){:width="400px") 
+
+
+#Our end-to-end relighting based supervision
+![Supervision](./assets/images/supervision2.png){:width="550px") 
 
 
 # Publication
