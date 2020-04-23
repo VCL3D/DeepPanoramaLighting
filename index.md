@@ -14,7 +14,7 @@ ___
 ![Overview](./assets/images/introduction.png){:width="400px") 
 
 
-#Our end-to-end relighting based supervision
+# Our end-to-end relighting based supervision
 ![Supervision](./assets/images/supervision2.png){:width="550px") 
 
 
