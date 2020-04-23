@@ -20,7 +20,7 @@ We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) an
 
 
 # Results
-![Wooden_lounge](./assets/images/wooden_lounge.jpg) | ![Wooden_lounge](./assets/images/wooden_glass_placed_theta_60.jpg) 
+![Wooden_lounge](./assets/images/wooden_lounge.jpg) ![Wooden_lounge](./assets/images/wooden_glass_placed_theta_60.jpg) 
 
 # Publication
 <a href="https://arxiv.org/"><img src="./assets/images/paper_image.png" width="700" title="arXiv paper link" alt="arXiv"/></a>
