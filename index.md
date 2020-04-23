@@ -15,13 +15,13 @@ ___
 
 
 # Our end-to-end relighting based supervision
-![Supervision](./assets/images/supervision2.png){:width="550px") 
+![Supervision](./assets/images/supervision2.png)
 
 
 # Qualitative results
 
-![Qualitative_1](./assets/images/Qualitative.png)(:width="750px")
-![Qualitative_2](./assets/images/Qualitative_2.png)(:width="750px")
+![Qualitative_1](./assets/images/Qualitative.png)
+![Qualitative_2](./assets/images/Qualitative_2.png)
 
 # Publication
 
