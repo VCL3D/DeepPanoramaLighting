@@ -23,6 +23,8 @@ We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) an
 ![1](./assets/images/Qualitative.png) 
 ![2](./assets/images/Qualitative_2.png)
 
+![gif](./assets/gifs/kiara_3_materials.gif)
+
 # Publication
 <a href="https://arxiv.org/"><img src="./assets/images/paper_image.png" width="700" title="arXiv paper link" alt="arXiv"/></a>
 
