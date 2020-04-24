@@ -1,4 +1,4 @@
-![kiara](./assets/gifs/kiara.gif){:height="50%" width="50%"}
+![kiara](./assets/gifs/kiara.gif)
 
 # Abstract
 
