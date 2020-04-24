@@ -24,7 +24,7 @@ We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) an
 # Results
 Qualitative results for virtual object rendering in real scenes with the lighting estimated by our model.
 
-![wooden_lounge](./assets/gifs/wooden_gif.gif)
+![wooden_lounge](./assets/gifs/wooden_gif.gif) | ![wooden_lounge_panorama](./assets/images/wooden_lounge.jpg)
 ![anniv270](./assets/gifs/anniv270.gif)
 ![colorful](./assets/gifs/colorful.gif)
 ![anniv90](./assets/gifs/anniv70.gif)
