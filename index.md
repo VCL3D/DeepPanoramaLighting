@@ -20,10 +20,6 @@ We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) an
 
 
 # Results
-![1](./assets/images/Qualitative.png) 
-![2](./assets/images/Qualitative_2.png)
-
-![kiara](./assets/gifs/kiara_3_materials.gif)
 ![lythwood_lounge](./assets/gifs/lythwood.gif)
 ![anniv270](./assets/gifs/anniv270.gif)
 ![anniv270](./assets/gifs/anniv90.gif)
