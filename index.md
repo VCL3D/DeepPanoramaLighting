@@ -27,7 +27,7 @@ Qualitative results for virtual object rendering in real scenes with the lightin
 ![wooden_lounge](./assets/gifs/wooden_gif.gif)
 ![anniv270](./assets/gifs/anniv270.gif)
 ![colorful](./assets/gifs/colorful.gif)
-![anniv90](./assets/gifs/anniv90.gif)
+![anniv90](./assets/gifs/anniv70.gif)
 ![lythwood_lounge](./assets/gifs/lythwood.gif)
 
 Images are in-the-wild samples from [HDRiHaven](https://hdrihaven.com/). Three materials are used: a conductor(reflecting mirror), rough plastic and another conductor(gold).
