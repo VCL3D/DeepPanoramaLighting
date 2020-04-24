@@ -1,3 +1,5 @@
+![kiara](./assets/gifs/kiara_3_materials.gif)
+
 # Abstract
 
 Estimating a scene’s lighting is a very important task when compositing synthetic content within real environments, with applications in  mixed reality and post-production.
