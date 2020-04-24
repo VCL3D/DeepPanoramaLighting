@@ -20,7 +20,7 @@ We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) an
 
 
 # Results
-*Qualitative results for virtual object rendering in real scenes with the lighting estimated by our model. 
+*Qualitative results for virtual object rendering in real scenes with the lighting estimated by our model.*
 
 ![lythwood_lounge](./assets/gifs/lythwood.gif)
 ![anniv270](./assets/gifs/anniv270.gif)
