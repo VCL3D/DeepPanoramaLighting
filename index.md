@@ -24,10 +24,17 @@ We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) an
 # Results
 Qualitative results for virtual object rendering in real scenes with the lighting estimated by our model.
 
-![wooden_lounge](./assets/gifs/wooden_gif.gif) | ![wooden_lounge_panorama](./assets/images/wooden_lounge.jpg)
+![wooden_lounge_panorama](./assets/images/wooden_lounge.jpg)
+![wooden_lounge](./assets/gifs/wooden_gif.gif) 
+
+![anniv_lounge_panorava](./assets/images/anniv_lounge.gif)
 ![anniv270](./assets/gifs/anniv270.gif)
-![colorful](./assets/gifs/colorful.gif)
 ![anniv90](./assets/gifs/anniv70.gif)
+
+![colorful_panorama](./assets/images/colorful_studio.jpg)
+![colorful](./assets/gifs/colorful.gif)
+
+![lythwood_lounge](./assets/images/lythwood_lounge.jpg)
 ![lythwood_lounge](./assets/gifs/lythwood.gif)
 
 Images are in-the-wild samples from [HDRiHaven](https://hdrihaven.com/). Three materials are used: a conductor(reflecting mirror), rough plastic and another conductor(gold).
