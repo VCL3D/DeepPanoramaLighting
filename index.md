@@ -22,11 +22,11 @@ We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) an
 # Results
 *Qualitative results for virtual object rendering in real scenes with the lighting estimated by our model.*
 
-![lythwood_lounge](./assets/gifs/lythwood.gif)
 ![anniv270](./assets/gifs/anniv270.gif)
 ![anniv270](./assets/gifs/anniv90.gif)
 ![wooden_lounge](./assets/gifs/wooden_gif.gif)
 ![colorful](./assets/gifs/colorful.gif)
+![lythwood_lounge](./assets/gifs/lythwood.gif)
 
 # Publication
 <a href="https://arxiv.org/"><img src="./assets/images/paper_image.png" width="700" title="arXiv paper link" alt="arXiv"/></a>
