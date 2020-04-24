@@ -1,4 +1,4 @@
-![kiara](./assets/gifs/kiara_3_materials.gif)
+![kiara](./assets/gifs/kiara.gif)
 
 # Abstract
 
