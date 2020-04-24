@@ -30,7 +30,7 @@ Qualitative results for virtual object rendering in real scenes with the lightin
 ![anniv90](./assets/gifs/anniv90.gif)
 ![lythwood_lounge](./assets/gifs/lythwood.gif)
 
-Images are in-the-wild samples from [HDRiHaven](https://hdrihaven.com/). Three materials are used from left to right: a conductor(reflecting mirror), rough plastic and another conductor(gold).
+Images are in-the-wild samples from [HDRiHaven](https://hdrihaven.com/). Three materials are used: a conductor(reflecting mirror), rough plastic and another conductor(gold).
 
 # Publication
 <a href="https://arxiv.org/"><img src="./assets/images/paper_image.png" width="700" title="arXiv paper link" alt="arXiv"/></a>
