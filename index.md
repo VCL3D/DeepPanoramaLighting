@@ -13,7 +13,7 @@ Finally, since we predict spherical spectral coefficients, we show that by impos
 ___
 
 # Overview
-We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) and the larger [3D60](https://vcl3d.github.io/3D60) color and normal dataset (__\[[2](#HyperSphere)\]__) jointly, coupling them through relighting in order to learn a single-shot HDR lighting estimator from a single LDR spherical panorama. 
+We use the uncoupled limited Laval HDR lighting dataset (\[[1](#Laval)\]) and the larger [3D60](https://vcl3d.github.io/3D60) color and normal dataset (\[[2](#HyperSphere)\]) jointly, coupling them through relighting in order to learn a single-shot HDR lighting estimator from a single LDR spherical panorama. 
 
 <img src="./assets/images/introduction.png" width="500" title="Overall Concept" alt="Our concept couples uncoupled datasets for learning the lighting estimation task." align="middle"/>
 
