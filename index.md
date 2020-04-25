@@ -25,6 +25,18 @@ We use the uncoupled limited Laval HDR lighting dataset (__\[[1](#Laval)\]__) an
 # Results
 Qualitative results for virtual object rendering in real scenes with the lighting estimated by our model.
 
+<img src="./assets/images/wooden_lounge.jpg" width="49%" title="Wooden Lounge Panorama"/>
+<img src="./assets/gifs/wooden_gif.gif" width="49%" title="Wooden Lounge"/>
+
+<img src="./assets/images/anniv_lounge.jpg" width="33%" title="Anniv Lounge Panorama"/>
+<img src="./assets/gifs/anniv270.gif" width="33%" title="Anniv Lounge"/>
+<img src="./assets/gifs/anniv70.gif" width="33%" title="Anniv Lounge"/>
+
+<img src="./assets/images/colorful_studio.jpg" width="49%" title="Colorful Panorama"/>
+<img src="./assets/gifs/colorful.gif" width="49%" title="Colorful"/>
+
+<!--
+
 ![wooden_lounge_panorama](./assets/images/wooden_lounge.jpg)
 ![wooden_lounge](./assets/gifs/wooden_gif.gif) 
 
@@ -35,8 +47,9 @@ Qualitative results for virtual object rendering in real scenes with the lightin
 ![colorful_panorama](./assets/images/colorful_studio.jpg)
 ![colorful](./assets/gifs/colorful.gif)
 
+-->
 
-Images are in-the-wild samples from [HDRiHaven](https://hdrihaven.com/). Three materials are used: a conductor(reflecting mirror), rough plastic and another conductor(gold).
+> Images are in-the-wild samples from [HDRiHaven](https://hdrihaven.com/). Three materials are used: a conductor(reflecting mirror), rough plastic and another conductor(gold).
 
 # Publication
 <a href="https://arxiv.org/"><img src="./assets/images/paper_image.png" width="900" title="arXiv paper link" alt="arXiv"/></a>
