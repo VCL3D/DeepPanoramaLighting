@@ -39,7 +39,7 @@ Qualitative results for virtual object rendering in real scenes with the lightin
 Images are in-the-wild samples from [HDRiHaven](https://hdrihaven.com/). Three materials are used: a conductor(reflecting mirror), rough plastic and another conductor(gold).
 
 # Publication
-<a href="https://arxiv.org/"><img src="./assets/images/paper_image.png" width="800" title="arXiv paper link" alt="arXiv"/></a>
+<a href="https://arxiv.org/"><img src="./assets/images/paper_image.png" width="900" title="arXiv paper link" alt="arXiv"/></a>
 
 ## Authors
 [Vasilis Gkitsas](https://github.com/VasilisGks) __\*__, [Nikolaos](https://github.com/zokin) [Zioulis](https://github.com/zuru) __\*__, [Federico Alvarez](https://www.researchgate.net/profile/Federico_Alvarez3), [Dimitrios Zarpalas](https://www.iti.gr/iti/people/Dimitrios_Zarpalas.html), and [Petros Daras](https://www.iti.gr/iti/people/Petros_Daras.html)
