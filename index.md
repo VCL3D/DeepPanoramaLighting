@@ -1,6 +1,6 @@
 # Abstract
 
-<img src="./assets/gifs/kiara.gif" width="400" title="Kiara" alt="Qualitative result for the Bunny model in an in-the-wild panorama." align="right"/>
+<img src="./assets/gifs/kiara.gif" width="350" height="500" title="Kiara" alt="Qualitative result for the Bunny model in an in-the-wild panorama." align="right"/>
 
 Estimating a scene’s lighting is a very important task when compositing synthetic content within real environments, with applications in  mixed reality and post-production.
 In this work we present a data-driven model that estimates an HDR lighting environment map from a single LDR monocular spherical panorama.
