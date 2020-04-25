@@ -1,14 +1,14 @@
-![kiara](./assets/gifs/kiara.gif)
-
 # Abstract
+
+<img src="./assets/gifs/kiara.gif" width="350" title="Kiara" alt="Qualitative result for the Bunny model in an in-the-wild panorama." align="right"/>
 
 Estimating a scene’s lighting is a very important task when compositing synthetic content within real environments, with applications in  mixed reality and post-production.
 In this work we present a data-driven model that estimates an HDR lighting environment map from a single LDR monocular spherical panorama.
 In addition to being a challenging and ill-posed problem, the lighting estimation task also suffers from a lack of facile illumination ground truth data,  a fact that hinders the applicability of data-driven methods.
-We approach this problem differently, exploiting  the  availability  of  surface  geometry  to  employ image-based relighting as a data generator and supervision mechanism.
+We approach this problem differently, exploiting  the  availability  of  surface  geometry  to  **employ image-based relighting as a data generator and supervision mechanism**.
 This relies on a global Lambertian assumption that helps us overcome issues related to pre-baked lighting.
-We relight our training data and complement the model’s supervision with a photometric loss, enabled by a differentiable image-based relighting technique.
-Finally, since we predict spherical spectral coefficients, we show that by imposing a distribution prior on the predicted coefficients, we can greatly boost performance
+We relight our training data and complement the model’s supervision with a photometric loss, enabled by a **differentiable image-based relighting technique**.
+Finally, since we predict spherical spectral coefficients, we show that by imposing a **distribution prior on the predicted coefficients**, we can greatly boost performance
 
 ___
 
