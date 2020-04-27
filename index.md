@@ -50,7 +50,7 @@ Qualitative results for virtual object rendering in real scenes with the lightin
 
 -->
 
-> Images are in-the-wild samples from [HDRiHaven](https://hdrihaven.com/). Three materials are used: a conductor(reflecting mirror), rough plastic and another conductor(gold). On each row, the leftmost image is the panorama, while the rightmost show perspective renders (viewport denoted within the panorama). 
+> Images are in-the-wild samples from [HDRiHaven](https://hdrihaven.com/). Three materials are used: a conductor(reflecting mirror), rough plastic and another conductor(gold). On each row, the leftmost image is the panorama, while the rightmost show perspective render (viewport denoted within the panorama). 
 
 # Publication
 <a href="https://arxiv.org/"><img src="./assets/images/paper_image.png" width="900" title="arXiv paper link" alt="arXiv"/></a>
