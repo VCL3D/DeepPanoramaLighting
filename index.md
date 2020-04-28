@@ -26,7 +26,7 @@ We use the uncoupled limited Laval HDR lighting dataset (\[[1](#Laval)\]) and th
 Qualitative results for virtual object rendering in real scenes with the lighting estimated by our model.
 
 <img src="./assets/images/hotel_room.jpg" width="49%" title="Hotel Room Panorama"/>
-<img src="./assets/gifs/hotel_room.gif" width="49%" title="Hotel Room"/>
+<img src="./assets/gifs/hotel.gif" width="49%" title="Hotel Room"/>
 
 <img src="./assets/images/wooden_lounge.jpg" width="49%" title="Wooden Lounge Panorama"/>
 <img src="./assets/gifs/wooden_gif.gif" width="49%" title="Wooden Lounge"/>
