@@ -33,7 +33,7 @@ Qualitative results for virtual object rendering in real scenes with the lightin
 
 <img src="./assets/images/anniv_lounge.jpg" width="49%" title="Anniv Lounge Panorama"/>
 <img src="./assets/gifs/anniv270.gif" width="49%" title="Anniv Lounge"/>
-<img src="./assets/images/anniv_lounge.jpg" width="49%" title="Anniv Lounge Panorama"/>
+<img src="./assets/images/anniv_lounge2.jpg" width="49%" title="Anniv Lounge Panorama"/>
 <img src="./assets/gifs/anniv70.gif" width="49%" title="Anniv Lounge"/>
 
 <img src="./assets/images/colorful_studio.jpg" width="49%" title="Colorful Panorama"/>
