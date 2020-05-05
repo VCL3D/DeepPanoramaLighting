@@ -39,6 +39,9 @@ Qualitative results for virtual object rendering in real scenes with the lightin
 <img src="./assets/images/colorful_studio.jpg" width="49%" title="Colorful Panorama"/>
 <img src="./assets/gifs/colorful.gif" width="49%" title="Colorful"/>
 
+<img src="./assets/images/lythwood_lounge.jpg" width="49%" title="Lythwood Lounge Panorama"/>
+<img src="./assets/gifs/lythwood.gif" width="49%" title="Lythwood Lounge"/>
+
 <!--
 
 ![wooden_lounge_panorama](./assets/images/wooden_lounge.jpg)
