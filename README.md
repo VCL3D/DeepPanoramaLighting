@@ -16,3 +16,6 @@ We recommend setting up a virtual environment (follow the `virtualenv` documenta
 Once your environment is set up and activated, install the necessary packages:
 
 `pip install torch===1.2.0 torchvision===0.4.0 -f https://download.pytorch.org/whl/torch_stable.html`
+
+# Pre-trained models
+You can download pre-trained models, LDR-to-HDR autoencoder and Lighting Encoder, [here](https://drive.google.com/file/d/1W7wmZt0AtBKu-jqEnd4aAL4c5dXczlh4/view?usp=sharing)
