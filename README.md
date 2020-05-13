@@ -8,4 +8,4 @@ Deep Lighting Environment Map Estimation from Spherical Panoramas
 
 **Deep Lighting Environment Map Estimation from Spherical Panoramas Code and Trained Models**
 
-This repository contains the code for our [paper](arxiv_link_here)
+This repository contains the code for our [2020 CVPR OmniCV Workshop paper](arxiv_link_here)
