@@ -7,7 +7,7 @@
 
 ## **Code and Trained Models**
 
-This repository contains inference code and models for our [2020 CVPR OmniCV Workshop paper](arxiv_link_here).
+This repository contains inference code and models for the paper Deep Lighting Environment Map Estimation from Spherical Panoramas ([link](arxiv_link_here)).
 
 
 # Requirements
