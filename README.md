@@ -6,7 +6,8 @@ Deep Lighting Environment Map Estimation from Spherical Panoramas
 [![Workshop](http://img.shields.io/badge/OmniCV-2020-lightblue.svg?style=plastic)](https://sites.google.com/view/omnicv-cvpr2020/home)
 [![Project Page](http://img.shields.io/badge/Project-Page-blueviolet.svg?style=plastic)](https://vcl3d.github.io/DeepPanoramaLighting/)
 
-# **Deep Lighting Environment Map Estimation from Spherical Panoramas Code and Trained Models**
+# **Deep Lighting Environment Map Estimation from Spherical Panoramas**
+## **Code and Trained Models**
 
 This repository contains inference code and models for our [2020 CVPR OmniCV Workshop paper](arxiv_link_here).
 
