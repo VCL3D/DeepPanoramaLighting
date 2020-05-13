@@ -24,4 +24,5 @@ You can download pre-trained models from [here](https://drive.google.com/file/d/
 
 The following flags specify the required parameters.
 - `--input_path`: Specifies the path of the input image.
-- `--out_path`: Specifies the file of the output path 
+- `--out_path`: Specifies the file of the output path. 
+-  `--deringing`: Enable/disable low pass deringing filter for the predicted SH coefficients.
