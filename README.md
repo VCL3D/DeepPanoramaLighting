@@ -12,7 +12,7 @@ This repository contains inference code and models for our [2020 CVPR OmniCV Wor
 
 # Requirements
 The code is based on PyTorch and has been tested with Python 3.7 and CUDA 10.0.
-We recommend setting up a virtualenv environment (follow the `virtualenv` documentation) for installing PyTorch and the other necessary Python packages.
+We recommend setting up a virtual environment (follow the `virtualenv` documentation) for installing PyTorch and the other necessary Python packages.
 Once your environment is set up and activated, install the necessary packages:
 
 `pip install torch===1.2.0 torchvision===0.4.0 -f https://download.pytorch.org/whl/torch_stable.html`
