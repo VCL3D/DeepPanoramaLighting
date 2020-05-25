@@ -9,7 +9,7 @@
 
 This repository contains inference code and models for the paper Deep Lighting Environment Map Estimation from Spherical Panoramas ([link](https://arxiv.org/abs/2005.08000)).
 
-- [ ] Training code (will follow soon)
+Training code will follow soon.
 
 ## Requirements
 The code is based on PyTorch and has been tested with Python 3.7 and CUDA 10.0.
