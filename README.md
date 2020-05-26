@@ -5,11 +5,14 @@
 [![Workshop](http://img.shields.io/badge/OmniCV-2020-lightblue.svg?style=plastic)](https://sites.google.com/view/omnicv-cvpr2020/home)
 [![Project Page](http://img.shields.io/badge/Project-Page-blueviolet.svg?style=plastic)](https://vcl3d.github.io/DeepPanoramaLighting/)
 
+## TODO
+- [x] Pre-trained model.
+- [x] Inference code.
+- [ ] Training code.
+
 ## **Code and Trained Models**
 
 This repository contains inference code and models for the paper Deep Lighting Environment Map Estimation from Spherical Panoramas ([link](https://arxiv.org/abs/2005.08000)).
-
-Training code will follow soon.
 
 ## Requirements
 The code is based on PyTorch and has been tested with Python 3.7 and CUDA 10.0.
