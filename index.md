@@ -14,7 +14,7 @@ ___
 
 # Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=M7c69qxVzXY&list=PLJbH7VBPlRlGAN4RgIjvPhWBEh6SfJdVL&index=16&t=0s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=M7c69qxVzXY&list=PLJbH7VBPlRlGAN4RgIjvPhWBEh6SfJdVL&index=16&t=0s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 We use the uncoupled limited Laval HDR lighting dataset (\[[1](#Laval)\]) and the larger [3D60](https://vcl3d.github.io/3D60) color and normal dataset (\[[2](#HyperSphere)\]) jointly, coupling them through relighting in order to learn a single-shot HDR lighting estimator from a single LDR spherical panorama. 
 
