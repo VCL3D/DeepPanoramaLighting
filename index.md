@@ -21,7 +21,7 @@ We use the uncoupled limited Laval HDR lighting dataset (\[[1](#Laval)\]) and th
 <img src="./assets/images/Introduction.png" width="850" title="Overall Concept" alt="Our concept couples uncoupled datasets for learning the lighting estimation task."         align="center"/>
 
 # Relighting-based Supervision
-![Supervision](./assets/gifs/Training_Scheme.gif)
+![Supervision](./assets/gifs/Training_scheme.gif)
 
 # Results
 Qualitative results for virtual object rendering in real scenes with the lighting estimated by our model.
