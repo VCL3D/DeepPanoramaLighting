@@ -25,7 +25,7 @@ We use the uncoupled limited Laval HDR lighting dataset (\[[1](#Laval)\]) and th
 </p>
 </div>
 
-
+\
 # Relighting-based Supervision
 ![Supervision](./assets/gifs/Training_Scheme.gif)
 
