@@ -10,12 +10,9 @@ This relies on a global Lambertian assumption that helps us overcome issues rela
 We relight our training data and complement the model’s supervision with a photometric loss, enabled by a **differentiable image-based relighting technique**.
 Finally, since we predict spherical spectral coefficients, we show that by imposing a **distribution prior on the predicted coefficients**, we can greatly boost performance
 
-<br/><br/>
-
 <p align="center">
 <iframe width="720" height="480" src="https://www.youtube.com/embed/M7c69qxVzXY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
 ___
 
 # Overview
@@ -25,7 +22,6 @@ We use the uncoupled limited Laval HDR lighting dataset (\[[1](#Laval)\]) and th
 
 # Relighting-based Supervision
 ![Supervision](./assets/gifs/Training_Scheme.gif)
-
 
 # Results
 Qualitative results for virtual object rendering in real scenes with the lighting estimated by our model.
