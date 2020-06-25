@@ -21,7 +21,7 @@ We use the uncoupled limited Laval HDR lighting dataset (\[[1](#Laval)\]) and th
 
 <p float="left">
 <img src="./assets/images/introduction.png" width="400" title="Overall Concept" alt="Our concept couples uncoupled datasets for learning the lighting estimation task."         align="middle"/>
-<img src="./assets/images/relighting.png" width="400" title=" Exemplary relights of sample images, presented with their corresponding normal maps." align="middle" />
+<img src="./assets/images/relighting.png" width="400" title=" Exemplary relights of sample images, presented with their corresponding normal maps." align="right" />
 </p>
 
 
