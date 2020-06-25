@@ -19,11 +19,14 @@ ___
 # Overview
 We use the uncoupled limited Laval HDR lighting dataset (\[[1](#Laval)\]) and the larger [3D60](https://vcl3d.github.io/3D60) color and normal dataset (\[[2](#HyperSphere)\]) jointly, coupling them through relighting in order to learn a single-shot HDR lighting estimator from a single LDR spherical panorama. 
 
-<img src="./assets/images/introduction.png" width="500" title="Overall Concept" alt="Our concept couples uncoupled datasets for learning the lighting estimation task." align="middle"/>
+<p float="left">
+<img src="./assets/images/introduction.png" width="400" title="Overall Concept" alt="Our concept couples uncoupled datasets for learning the lighting estimation task."         align="middle"/>
+<img src="./assets/images/relighting.png" width="400" />
+</p>
 
 
 # Relighting-based Supervision
-![Supervision](./assets/images/supervision2.png)
+![Supervision](./assets/gifs/Training_scheme.gif)
 
 
 # Results
