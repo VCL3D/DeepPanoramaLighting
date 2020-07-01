@@ -11,7 +11,7 @@
 - [ ] Training code.
 
 
-![](../assets/images/Networks.png?raw=true)
+![](https://github.com/VCL3D/DeepPanoramaLighting/blob/gh-pages/assets/images/Networks.png?raw=true)
 
 ## **Code and Trained Models**
 
