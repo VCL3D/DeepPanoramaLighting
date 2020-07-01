@@ -11,8 +11,6 @@
 - [ ] Training code.
 
 
-![](https://github.com/VCL3D/DeepPanoramaLighting/blob/gh-pages/assets/images/Networks.png?raw=true)
-
 ## **Code and Trained Models**
 
 This repository contains inference code and models for the paper Deep Lighting Environment Map Estimation from Spherical Panoramas ([link](https://arxiv.org/abs/2005.08000)).
@@ -33,5 +31,7 @@ The following flags specify the required parameters.
 - `--input_path`: Specifies the path of the input image.
 - `--out_path`: Specifies the file of the output path. 
 -  `--deringing`: Enable/disable low pass deringing filter for the predicted SH coefficients.
+
+![](https://github.com/VCL3D/DeepPanoramaLighting/blob/gh-pages/assets/images/Networks.png?raw=true)
 
 
