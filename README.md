@@ -10,6 +10,8 @@
 - [x] Inference code.
 - [ ] Training code.
 
+<img src="./assets/images/Networks.png" width="49%" title="Main Components"/>
+
 ## **Code and Trained Models**
 
 This repository contains inference code and models for the paper Deep Lighting Environment Map Estimation from Spherical Panoramas ([link](https://arxiv.org/abs/2005.08000)).
