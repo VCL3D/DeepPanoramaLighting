@@ -10,7 +10,8 @@
 - [x] Inference code.
 - [ ] Training code.
 
-<img src="../assets/images/Networks.png" width="49%" title="Main Components"/>
+
+![alt text](https://github.com/VCL3D/DeepPanoramaLighting/tree/gh-pages/assets/images/Networks.png)
 
 ## **Code and Trained Models**
 
