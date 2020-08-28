@@ -1,4 +1,4 @@
-# **Deep Lighting Environment Map Estimation from Spherical Panoramas**
+# **Code accompanying the paper "Deep Lighting Environment Map Estimation from Spherical Panoramas", CVPRW 2020**
 
 [![Paper](http://img.shields.io/badge/paper-arxiv-critical.svg?style=plastic)](https://arxiv.org/abs/2005.08000)
 [![Conference](http://img.shields.io/badge/CVPR-2020-blue.svg?style=plastic)](http://cvpr2020.thecvf.com/)
