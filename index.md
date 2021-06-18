@@ -68,12 +68,12 @@ Qualitative results for virtual object rendering in real scenes with the lightin
 ## Citation
 If you use this code and/or data, please cite the following:
 ```
-@inproceedings{gkitsas2021panodr,
-  title={PanoDR: Spherical Panorama Diminished Reality for Indoor Scenes},
-  author={Gkitsas, Vasileios and Sterzentsenko, Vladimiros and Zioulis, Nikolaos and Albanis, Georgios and Zarpalas, Dimitrios},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={3716--3726},
-  year={2021}
+@inproceedings{gkitsas2020deep,
+  title={Deep lighting environment map estimation from spherical panoramas},
+  author={Gkitsas, Vasileios and Zioulis, Nikolaos and Alvarez, Federico and Zarpalas, Dimitrios and Daras, Petros},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={640--641},
+  year={2020}
 }
 ```
 
