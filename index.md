@@ -85,6 +85,8 @@ This project has received funding from the European Union’s Horizon 2020 innov
 
 ![eu](./assets/images/eu.png){:width="150px"} ![h360](./assets/images/h360.png){:width="150px"} ![nvidia](./assets/images/nvidia.jpg){:width="150px"}
 
+Our code borrows from [Spherical harmonics for radiance maps](https://github.com/chalmersgit/SphericalHarmonics) created by Andrew Chalmers
+
 # Contact
 Please direct any questions related to the code & models to gkitsasv “at” iti “dot” gr or post an issue to the code [repo](https://github.com/VCL3D/DeepPanoramaLighting).
 
