@@ -9,8 +9,6 @@
 ## TODO
 - [x] Pre-trained model.
 - [x] Inference code.
-- [ ] Training code.
-
 
 ## **Code and Trained Models**
 
